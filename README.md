@@ -1,9 +1,9 @@
-#概要
+﻿#概要
 InputManagerの拡張をするためのスクリプトとそのエディタ拡張
 
 #LISENCE
 ###日本語
-﻿Copyright (c) <2019>, <Haku Kaido>
+﻿Copyright (c) 2019, Haku Kaido
 All rights reserved.
 
 ソースコード形式かバイナリ形式か、変更するかしないかを問わず、以下の条件を満たす場合に限り、再頒布および使用が許可されます。 
