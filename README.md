@@ -1,10 +1,10 @@
 # InputManagerEX
 
-#概要
+# 概要
 InputManagerの拡張をするためのスクリプトとそのエディタ拡張
 
-#LISENCE
-###日本語
+# LISENCE
+### 日本語
 ﻿Copyright (c) <2019>, <Haku Kaido>
 All rights reserved.
 
@@ -17,7 +17,7 @@ All rights reserved.
 
 このライセンスはBSD 2-Clause Licenseを利用しています
 
-###English
+### English
 BSD 2-Clause License
 
 Copyright (c) 2019, Haku_Kaido
